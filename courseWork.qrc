@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/courseWork">
+        <file>Resources/run.png</file>
+        <file>Resources/next.png</file>
+        <file>Resources/registry.png</file>
+    </qresource>
+</RCC>
